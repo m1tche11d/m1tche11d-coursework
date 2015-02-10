@@ -1,0 +1,7 @@
+c:\users\jvalenzu\documents\visual studio 2013\Projects\VM-Console\VM-Console\bin\Debug\VM-Console.exe.config
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console\bin\Debug\VM-Console.exe.config
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console\bin\Debug\VM-Console.exe
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console\bin\Debug\VM-Console.pdb
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console\obj\Debug\VM-Console.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console\obj\Debug\VM-Console.exe
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console\obj\Debug\VM-Console.pdb

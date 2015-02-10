@@ -1,0 +1,7 @@
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console-Tests\bin\Debug\VM-Console-Tests.dll
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console-Tests\bin\Debug\VM-Console-Tests.pdb
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console-Tests\obj\Debug\VM-Console-Tests.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console-Tests\obj\Debug\VM-Console-Tests.dll
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console-Tests\obj\Debug\VM-Console-Tests.pdb
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console-Tests\bin\Debug\VM-Console.exe
+C:\Users\Daniel\CIS 501 Work\m1tche11d-coursework\VM-Console-Tests\bin\Debug\VM-Console.pdb
