@@ -1,0 +1,13 @@
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeTool\bin\Debug\PrimeTool.exe.config
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeTool\bin\Debug\PrimeTool.exe
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeTool\bin\Debug\PrimeTool.pdb
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeTool\obj\Debug\PrimeTool.csprojResolveAssemblyReference.cache
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeTool\obj\Debug\PrimeTool.exe
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeTool\obj\Debug\PrimeTool.pdb
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeTool\bin\Debug\PrimeTool.exe.CodeAnalysisLog.xml
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeTool\bin\Debug\PrimeTool.exe.lastcodeanalysissucceeded
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeTool\bin\Debug\PrimeTool.exe.config
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeTool\bin\Debug\PrimeTool.exe
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeTool\bin\Debug\PrimeTool.pdb
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeTool\obj\Debug\PrimeTool.exe
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeTool\obj\Debug\PrimeTool.pdb

@@ -1,0 +1,14 @@
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\bin\Debug\Classes_VR_UnitTests.dll
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\bin\Debug\Classes_VR_UnitTests.pdb
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\bin\Debug\Classes_VR_CardConcepts.dll
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\bin\Debug\Classes_VR_CardConcepts.pdb
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\obj\Debug\03-Classes-VR-UnitTests.csprojResolveAssemblyReference.cache
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\obj\Debug\Classes_VR_UnitTests.dll
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\obj\Debug\Classes_VR_UnitTests.pdb
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\bin\Debug\Classes_VR_UnitTests.dll
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\bin\Debug\Classes_VR_UnitTests.pdb
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\bin\Debug\Classes_VR_CardConcepts.dll
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\bin\Debug\Classes_VR_CardConcepts.pdb
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\obj\Debug\03-Classes-VR-UnitTests.csprojResolveAssemblyReference.cache
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\obj\Debug\Classes_VR_UnitTests.dll
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-UnitTests\obj\Debug\Classes_VR_UnitTests.pdb

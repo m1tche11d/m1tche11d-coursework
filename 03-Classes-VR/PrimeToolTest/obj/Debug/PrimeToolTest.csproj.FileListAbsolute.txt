@@ -1,0 +1,14 @@
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeToolTest\bin\Debug\PrimeToolTest.dll
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeToolTest\bin\Debug\PrimeToolTest.pdb
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeToolTest\bin\Debug\PrimeTool.exe
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeToolTest\bin\Debug\PrimeTool.pdb
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeToolTest\obj\Debug\PrimeToolTest.csprojResolveAssemblyReference.cache
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeToolTest\obj\Debug\PrimeToolTest.dll
+U:\CIS 501\03-Classes-VR\03-Classes-VR\PrimeToolTest\obj\Debug\PrimeToolTest.pdb
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeToolTest\bin\Debug\PrimeToolTest.dll
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeToolTest\bin\Debug\PrimeToolTest.pdb
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeToolTest\bin\Debug\PrimeTool.exe
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeToolTest\bin\Debug\PrimeTool.pdb
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeToolTest\obj\Debug\PrimeToolTest.csprojResolveAssemblyReference.cache
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeToolTest\obj\Debug\PrimeToolTest.dll
+U:\CIS_501\03-Classes-VR\03-Classes-VR\PrimeToolTest\obj\Debug\PrimeToolTest.pdb

@@ -1,0 +1,10 @@
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\bin\Debug\Classes_VR_CardConcepts.dll
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\bin\Debug\Classes_VR_CardConcepts.pdb
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\obj\Debug\Classes_VR_CardConcepts.dll
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\obj\Debug\Classes_VR_CardConcepts.pdb
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\bin\Debug\Classes_VR_CardConcepts.dll.CodeAnalysisLog.xml
+U:\CIS 501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\bin\Debug\Classes_VR_CardConcepts.dll.lastcodeanalysissucceeded
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\bin\Debug\Classes_VR_CardConcepts.dll
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\bin\Debug\Classes_VR_CardConcepts.pdb
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\obj\Debug\Classes_VR_CardConcepts.dll
+U:\CIS_501\03-Classes-VR\03-Classes-VR\03-Classes-VR-CardConcepts\obj\Debug\Classes_VR_CardConcepts.pdb
